@@ -8,10 +8,6 @@ I am professionally coding websites continiously since 2011 👴🏼
 
 I work for one of the best British startups - <a href="https://motorway.co.uk">Motorway</a> 🚕 
 
-#### Social media 
-
-You can find me on twitter under the <a href="https://twitter.com/szympajka">@szympajka</a> nick! :)
-
 ##### See you later!
 
 <!--
