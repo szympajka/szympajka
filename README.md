@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am web developer mainly working on frontend 🕵️‍♂️
+
+I work for one of the best British startups - <a href="https://motorway.co.uk">Motorway</a> 🚕
+
+You can find me on twitter under the <a href="https://twitter.com/szympajka">@szympajka</a> nick! :) 
+
 <!--
 **szympajka/szympajka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
