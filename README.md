@@ -4,7 +4,7 @@ I am web developer mainly working on frontend 🕵️‍♂️
 
 I am 25yo with first webiste coded being just 11-12yo (I just realised (literally writing this!) that I already code for more than 50% of my life and I will only grow! 🤯)! 
 
-I am coding websites continiously since 2011 👴🏼 I work for one of the best British startups - <a href="https://motorway.co.uk">Motorway</a> 🚕 
+I am professionally coding websites continiously since 2011 👴🏼 I work for one of the best British startups - <a href="https://motorway.co.uk">Motorway</a> 🚕 
 
 #### Social media 
 
