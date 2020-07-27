@@ -13,6 +13,12 @@ I work for one of the best British startups - <a href="https://motorway.co.uk">M
 #### Social media 
 
 You can find me on twitter under the <a href="https://twitter.com/szympajka">@szympajka</a> nick! :)
+
+##### See you later!
+
+![source (1)](https://user-images.githubusercontent.com/19807209/88573300-6cc7c980-d038-11ea-9d10-0e42134d2007.gif)
+
+###### GIFs source: Giphy.com
 <!--
 **szympajka/szympajka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
